@@ -1,2 +1,0 @@
-# CallBackJS
-Created with CodeSandbox
